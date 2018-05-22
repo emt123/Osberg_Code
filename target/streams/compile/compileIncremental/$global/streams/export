@@ -1,0 +1,1 @@
+scalac -bootclasspath /Users/Eric/.sbt/boot/scala-2.12.6/lib/scala-library.jar -classpath /Users/Eric/Documents/GitHub/Osberg_Code/target/scala-2.12/classes /Users/Eric/Documents/GitHub/Osberg_Code/src/main/scala/io/oseberg/interview/Screener.scala
